@@ -1,0 +1,114 @@
+{
+  "services": [
+    {
+        "id": "sap-implementation",
+        "title": "SAP Implementation",
+        "fullTitle": "SAP Implementation",
+        "category": "sap",
+        "slug": "sap-implementation-services",
+        "description": "Elevate your enterprise processes with SAP implementation services provided by Connecting Roots. Our experts will guide you in selecting and deploying the right SAP solution to meet the unique needs of your business.",
+        "metaTitle": "SAP Implementation Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "Elevate your enterprise processes with SAP implementation services provided by Connecting Roots. Our experts will guide you in selecting and deploying the right SAP solution to meet the unique needs of your business.",
+        "keywords": "SAP Implementation Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Implementation,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-rollout",
+        "title": "SAP Rollout",
+        "fullTitle": "SAP Rollout",
+        "category": "sap",
+        "slug": "sap-rollout-services",
+        "description": "Transfer your ready-made and already configured SAP processes across geographic locations or business units.",
+        "metaTitle": "SAP Rollout Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "Transfer your ready-made and already configured SAP processes across geographic locations or business units.",
+        "keywords": "SAP Rollout Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Rollout,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-support",
+        "title": "SAP Support",
+        "fullTitle": "SAP Support",
+        "category": "sap",
+        "slug": "sap-support-services",
+        "description": "Your trusted partner for comprehensive SAP support, from implementation to ongoing operations.",
+        "metaTitle": "SAP Support Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "Your trusted partner for comprehensive SAP support, from implementation to ongoing operations.",
+        "keywords": "SAP Support Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Support,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-upgrade",
+        "title": "SAP Upgrade",
+        "fullTitle": "SAP Upgrade",
+        "category": "sap",
+        "slug": "sap-upgrade-services",
+        "description": "SAP Upgrade Services Minimizing Risk and Optimizing Your SAP Environment Through Expert Upgrades.",
+        "metaTitle": "SAP Upgrade Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "SAP Upgrade Services Minimizing Risk and Optimizing Your SAP Environment Through Expert Upgrades.",
+        "keywords": "SAP Upgrade Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Upgrade,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-integration",
+        "title": "SAP Integration",
+        "fullTitle": "SAP Integration",
+        "category": "sap",
+        "slug": "sap-integration-services",
+        "description": "SAP Integration Services Minimizing Risk and Optimizing Your SAP Environment Through Expert Upgrades.",
+        "metaTitle": "SAP Integration Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": " SAP Integration Services Minimizing Risk and Optimizing Your SAP Environment Through Expert Upgrades.",
+        "keywords": "SAP Integration Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Integration,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-migration",
+        "title": "SAP Migration",
+        "fullTitle": "SAP Migration",
+        "category": "sap",
+        "slug": "sap-migration-services",
+        "description": "SAP Migration Services Minimizing Downtime and Maximizing Value with Our Expert Migration Team",
+        "metaTitle": "SAP Migration Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "SAP Migration Services Minimizing Downtime and Maximizing Value with Our Expert Migration Team",
+        "keywords": "SAP Migration Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Migration,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-automation",
+        "title": "SAP Automation",
+        "fullTitle": "SAP Automation",
+        "category": "sap",
+        "slug": "sap-automation-services",
+        "description": "SAP Automation Services, End-to-End Automation Solutions for SAP, From Process Discovery to Deployment",
+        "metaTitle": "SAP Automation Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "SAP Automation Services, End-to-End Automation Solutions for SAP, From Process Discovery to Deployment",
+        "keywords": "SAP Automation Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Automation,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "sap-testing",
+        "title": "SAP Testing",
+        "fullTitle": "SAP Testing",
+        "category": "sap",
+        "slug": "sap-testing-services",
+        "description": "SAP Testing Services ensure your ERP runs flawlessly with end-to-end quality assurance, functional testing, automation, and performance validation tailored to your enterprise landscape.",
+        "metaTitle": "SAP Testing Services | Expert ERP Deployment & Consulting - Connecting Roots | ",
+        "metaDescription": "SAP Testing Services ensure your ERP runs flawlessly with end-to-end quality assurance, functional testing, automation, and performance validation tailored to your enterprise landscape.",
+        "keywords": "SAP Testing Services,SAP,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Testing,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      },
+      {
+        "id": "data-analytics",
+        "title": "Data Analytics",
+        "fullTitle": "Data Analytics",
+        "category": "analytics",
+        "slug": "data-analytics-services",
+        "description": "Data Analytics Services, Transforming Data into Actionable Insights for Better Decision Making",
+        "metaTitle": "Data Analytics Services | Expert Data Analysis & Consulting - Connecting Roots | ",
+        "metaDescription": "Data Analytics Services, Transforming Data into Actionable Insights for Better Decision Making",
+        "keywords": "Data Analytics Services,Data Analytics,Connecting Roots,critindia,ERP,SAP S/4HANA,SAP Testing,SAP Consulting,SAP Services,ERP Deployment,SAP Consulting Services"
+      }
+  ],
+
+  "serviceNameMap": {
+    "implementation": "SAP Implementation Services",
+    "Rollout": "SAP Rollout Services",
+    "support": "SAP Support Services",
+    "upgrade": "SAP Upgrade Services",
+    "integration": "SAP Integration Services",
+    "migration": "SAP Migration Services",
+    "automation": "SAP Automation Services",
+    "testing": "SAP Testing Services"
+  }
+}
