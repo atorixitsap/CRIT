@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "node ./scripts/install-lightningcss.cjs",
     "dev": "next dev --turbopack",
-    "build": "next build",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "next lint"
   },
