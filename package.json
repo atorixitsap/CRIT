@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "postinstall": "node ./scripts/install-lightningcss.cjs",
     "dev": "next dev --turbopack",
     "build": "next build --webpack",
     "start": "next start",
